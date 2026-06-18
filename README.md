@@ -83,8 +83,8 @@ Users can filter data based on:
 **Ravi Mengade**
 
 - Data Analyst | Power BI | SQL | Python
-- LinkedIn: Add your LinkedIn profile
-- GitHub: Add your GitHub profile
+- LinkedIn:https://www.linkedin.com/in/ravi-mengde-45853732b
+- GitHub: https://github.com/ravi-mengde 
 
 ---
 
