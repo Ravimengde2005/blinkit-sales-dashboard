@@ -51,7 +51,8 @@ Users can filter data based on:
 
 ## 📷 Dashboard Preview
 
-![Blinkit Dashboard](dashboard.png)
+<img width="1289" height="752" alt="Screenshot 2026-06-18 125255" src="https://github.com/user-attachments/assets/bed84296-bcc9-4f29-9b4e-4fc08beeb5ef" />
+
 
 ---
 
